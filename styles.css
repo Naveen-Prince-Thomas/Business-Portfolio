@@ -1,0 +1,81 @@
+body{
+    overflow-x: hidden;
+}
+.div{
+    background-color: rgba(241, 241, 241, 0.986);
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    justify-content: space-between; 
+}
+.h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ht4{
+    color:white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    margin-bottom:30px;
+    padding-top: 10px;
+}
+.icon{
+    font-size: 1.5rem;
+    color: black;
+}
+.bg-image{
+    background-image: url("/Office.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 1360px;
+    height: 570px;
+    overflow: hidden;
+    z-index:-1;
+    position: relative;
+
+}
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: white; /* Semi-transparent black overlay */
+    z-index: 1;
+
+}
+.div1{
+    margin-top: 9%;
+    margin-left: 10%;
+}
+.ht3{
+    font-size:350%;
+}
+.ht5{
+    font-size:150%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ccolor{
+    background-color:rgb(238, 238, 238);
+}
+.dcolor{
+    background-color: rgb(173, 173, 173);
+
+}
+.c2{
+    background-color: rgb(221, 221, 221);
+}
+.ecolor{
+    background-color: rgba(22, 73, 38, 0.973);
+}
+.src-img{
+    margin-bottom: 30px;
+    margin-left: 73%;
+    margin-top: 150px;
+}
+.c3{
+    margin-top: 130px;
+    margin-right: 100px;
+}
+
+
