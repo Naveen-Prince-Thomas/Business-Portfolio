@@ -23,7 +23,7 @@ body{
     color: black;
 }
 .bg-image{
-    background-image: url("/Office.jpg");
+    background-image: url("Office.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
